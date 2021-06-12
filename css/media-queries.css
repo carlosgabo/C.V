@@ -1,0 +1,61 @@
+@media (max-width: 900px){
+  .perfil-main-firstzone{
+    display: block;
+    text-align: center;
+  }
+}
+
+
+@media (max-width: 550px){
+
+ header .header-icon-container .icons{
+  margin-left: 30px;
+ }
+  
+  nav .nav-logo-container{
+   margin:0 auto;
+  }
+
+  nav .profile-link{
+   margin: 0;
+   margin-right: 60px;
+  }
+
+  nav .profile-link a{
+   border-bottom: none;
+}
+  .perfil-main-container{
+   padding: 0 15px 15px 0;
+}
+
+.perfil-img-container img{
+   width: 150px;
+}
+
+.perfil-main-firstzone p{
+   font-size: small;
+   padding-right: 50px;
+   padding-left: 50px;
+}
+
+.perfil-experience-container{
+   padding-left: 50px;
+   padding-right: 50px;
+}
+
+.contact-main-container{
+ text-align: center;
+ padding-top: 50px;
+ padding-bottom: 50px;
+}
+
+.contact-main-container .contact-left, .contact-right{
+ margin-top: 20px;
+ text-align: center;
+}
+
+.contact-main-container .contact-email{
+ padding-bottom: 50px;
+}
+
+}
